@@ -1,2 +1,2 @@
 # AKh
-Mathematica notebooks and packages for AKh.m
+Mathematica notebooks and updates for AKh.m
